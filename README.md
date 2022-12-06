@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20I'm%20Arya👋&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20I'm%20Arya👋&height=100&section=header&animation=scaleIn"/>
 </p>
 
 <p align="center">
@@ -98,5 +98,5 @@ hobbies: ["Gaming", "Traveling", "Programming"]
 </p>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=The%20End😄"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=The%20End"/>
 </p>
