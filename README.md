@@ -80,7 +80,7 @@ hobbies: ["Gaming", "Traveling", "Programming"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-aghaei&theme=noctis_minimus" />
 </a>
 
-![Snake animation](https://github.com/arya-aghaei/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/arya-aghaei/arya-aghaei/blob/output/github-contribution-grid-snake.svg)
   
  ## 🤙 Last but not least 
 
