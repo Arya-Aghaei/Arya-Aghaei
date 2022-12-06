@@ -75,12 +75,12 @@ hobbies: ["Gaming", "Traveling", "Programming"]
 ---  
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/thepiyushmalhotra">
+<a href="https://github.com/arya-aghaei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arya-aghaei&theme=noctis_minimus&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-aghaei&theme=noctis_minimus" />
 </a>
 
-![Snake animation](https://github.com/arya-aghaei/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/arya-aghaei/blob/output/github-contribution-grid-snake.svg)
   
  ## 🤙 Last but not least 
 
