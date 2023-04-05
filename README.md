@@ -18,7 +18,7 @@ A Front-end developer with more than seven years of experience. With a demonstra
 name: Arya Aghaei
 located_in: Cologne, Germany
 current_job: Frontend Developer
-company: CheMondis
+company: Bike24
 
 fields_of_interests:
   [
