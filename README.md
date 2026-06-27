@@ -1,102 +1,66 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20I'm%20Arya&height=130&section=header&animation=scaleIn&fontSize=42&fontAlignY=35" alt="Hi! I'm Arya" />
+</p>
+
+<h1 align="center">Frontend Engineer | React / TypeScript</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20I'm%20Arya👋&height=100&section=header&animation=scaleIn"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=820&lines=React+%7C+TypeScript+%7C+Frontend+systems;E-commerce+frontends%2C+dashboards%2C+and+internal+tools;Frontend+experience+since+2015" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
+  <a href="https://www.linkedin.com/in/arya-aghaei/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arya%20Aghaei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/4412698/arya-aghaei">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
 </p>
 
-## 👀 Who am I ? 
+---
 
-A Front-end developer with more than seven years of experience. With a demonstrated history of participation in E-Commerce, Travel, IT, and Telecommunication industries. Emphasising compliance and skills to interpret the business requirements to implementation according to the end-user needs. let us know each other moreeee! 
+### Quick Profile
 
+Frontend engineer based in Germany with <!-- EXPERIENCE_YEARS:START -->11+ years<!-- EXPERIENCE_YEARS:END --> of experience.
 
-## 👨🏻‍💻 A little bit more about me? 
+I work on production React and Next.js interfaces: storefront flows, reusable UI, GraphQL/Apollo data integration, performance work, and modernization of older frontend code.
 
-```yaml
-name: Arya Aghaei
-located_in: Cologne, Germany
-current_job: Frontend Developer
-company: Bike24
+| Current work                                                       | Main stack                                               | Also worked with                                                                    |
+| ------------------------------------------------------------------ | -------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| E-commerce storefronts, UI updates, performance work, integrations | React, TypeScript, Next.js, GraphQL/Apollo, Tailwind CSS | React Native, dashboards, reporting tools, legacy ASP.NET MVC/C#/jQuery maintenance |
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Game Development",
-    "Mobile Development",
-    "UI/UX",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Latra - Frontend Developer",
-    "Huawei Technologies - Frontend Developer & DevOps Engineer",
-    "Look at my linkedin if you wanna know more :D",
-  ]
-  
-currently_learning: ["Unreal Engine 5.1"]
-2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Traveling", "Programming"]
+### What I Build
 
-```
+- Build and maintain React/TypeScript storefronts and customer-facing flows.
+- Implement redesigns, reusable components, and frontend refactors.
+- Integrate GraphQL/Apollo APIs, Algolia search, dashboards, and reporting views.
+- Work with legacy systems, performance improvements, and production UI maintenance.
+- Build React Native prototypes and interactive UI experiments.
 
-
-## 🧠 What do I know? 
-
-- #### Front-End
-  JavaScript (ES6, JSX and Typescript), React, GraphQL (Apollo Client), Redux, NodeJS, Ant Design, Tailwind CSS, Bootstrap, Styled Components, D3.js, jQuery, HTML5, CSS3 (SCSS, LESS)
-
-- #### DevOps: 
-     Git, SonarQube, Jenkins, GitHub
-
-- #### Applications:
-  React Native, (Familiar with Windows Applications (C#))
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind-css" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="d3js" width="45" height="45"/>
-</p>
-
----  
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/arya-aghaei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arya-aghaei&theme=noctis_minimus&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-aghaei&theme=noctis_minimus" />
-</a>
-
-![Snake animation](https://github.com/arya-aghaei/arya-aghaei/blob/output/github-contribution-grid-snake.svg)
-  
- ## 🤙 Last but not least 
+### Tech Toolbox
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/arya-aghaei/">
-  <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
-</a>
-<a href="https://stackoverflow.com/users/4412698/arya-aghaei">
-  <img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"/>
-</a>
-  <a href="mailto:arya.aghaei@outlook.com">
-  <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,graphql,nodejs,html,css,sass,tailwind,bootstrap,docker,git,github&perline=7" alt="Tech stack icons" />
 </p>
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=The%20End"/>
+- **Core:** React, TypeScript, Next.js, GraphQL/Apollo, Tailwind CSS
+- **UI:** HTML, CSS/Sass, Styled Components, Ant Design, Bootstrap
+- **Adjacent:** React Native, Node.js, Docker, ASP.NET MVC/C#/jQuery legacy maintenance
+
+### GitHub Activity
+
+Public GitHub is only a partial view of my work.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arya-Aghaei&theme=tokyo-night&hide_border=true&radius=8" alt="GitHub activity graph" />
+</p>
+
+### More
+
+For professional context, connect with me on [LinkedIn](https://www.linkedin.com/in/arya-aghaei/).
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer" />
 </p>
